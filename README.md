@@ -2,6 +2,7 @@
 
 This is a really awesome website
 
-Edit on exampe branch
-
 Now editing update-readme branch
+
+Updated locally
+
